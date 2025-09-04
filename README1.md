@@ -1,27 +1,27 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> Bienvenid@ al GitHub de Daniela Rangel
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> 👋 Welcome to my GitHub! I’m Daniela Rangel, a Jr. Data Analyst in progress 🚀
 
-![Banner de Danny Rangel](Danny_rangel_youtube.png)
+![Banner de Danny Rangel](Banner_Youtube_Danny_English.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@rangeldcc_DA)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rangel-css)
 
 <br>
 
-## Sobre mi 😃
+## About Me 🙌
 <!--Intro start-->
 
-### 🎓 Analista de datos en formación
+### 📊 Data Analyst in Training 🚀
 
-### 🎥 CREADOR DE CONTENIDO PRINCIPIANTE compartiendo mi aprendizaje 📚 y proyectos del bootcamp de Data Analytics 🚀
+### 📹 BEGINNER CONTENT CREATOR sharing my learning 💡 and bootcamp projects in Data Analytics 🐍💻 
 
-### 💻 Experiencia previa en hospitalidad, atención al cliente y gestión de operaciones, ahora en transición hacia el mundo de los datos 📊
+### 🌍 Previous experience in hospitality, customer service, and operations management, now transitioning into the data world 📊
 
-### 📝 Roles en mi camino: gestor de operaciones... trainer... optimizador de procesos... estudiante apasionado de datos... y en un futuro, quién sabe ☺️
+### 📝 Roles along my journey: operations manager ✈️... trainer 🎯... process optimizer ⚙️... passionate data learner 🔍... and in the future, who knows ✨
 <!--Intro end-->
 
 <br>
 
-## Tecnologias 💻
+## Tech Stack 💻
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -46,7 +46,7 @@
 <br/>
 <br/>
 
-## Mis proyectos ✨
+## My proyects ✨
 
 ![Banner de Danny Rangel](Banner_Danny_Rangel.png)
 
