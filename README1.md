@@ -10,7 +10,7 @@
 ## Sobre mi 😃
 <!--Intro start-->
 
-### 🎓 ANALISTA DE DATOS EN FORMACIÓN
+### 🎓 Analista de datos en formación
 
 ### 🎥 CREADOR DE CONTENIDO PRINCIPIANTE compartiendo mi aprendizaje 📚 y proyectos del bootcamp de Data Analytics 🚀
 
@@ -47,4 +47,5 @@
 <br/>
 
 ## Mis proyectos ✨
+
 ![Banner de Danny Rangel](Banner_Danny_Rangel.png)
