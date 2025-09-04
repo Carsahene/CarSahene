@@ -6,19 +6,19 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rangel-css)
 
 <br>
-<h2>Sobre mi 😃</h2>
+
+## Sobre mi 😃
 <!--Intro start-->
 
-<p align="left">
-🎓 ANALISTA DE DATOS EN FORMACIÓN
+### 🎓 ANALISTA DE DATOS EN FORMACIÓN
 
-🎥 CREADOR DE CONTENIDO PRINCIPIANTE compartiendo mi aprendizaje 📚 y proyectos del bootcamp de Data Analytics 🚀
+### 🎥 CREADOR DE CONTENIDO PRINCIPIANTE compartiendo mi aprendizaje 📚 y proyectos del bootcamp de Data Analytics 🚀
 
-💻 Experiencia previa en hospitalidad, atención al cliente y gestión de operaciones, ahora en transición hacia el mundo de los datos 📊
+### 💻 Experiencia previa en hospitalidad, atención al cliente y gestión de operaciones, ahora en transición hacia el mundo de los datos 📊
 
-📝 Roles en mi camino: gestor de operaciones... trainer... optimizador de procesos... estudiante apasionado de datos... y en un futuro, quién sabe ☺️
+### 📝 Roles en mi camino: gestor de operaciones... trainer... optimizador de procesos... estudiante apasionado de datos... y en un futuro, quién sabe ☺️
 <!--Intro end-->
-  </p>
+
 <br>
 
 ## Tecnologias 💻
