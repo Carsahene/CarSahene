@@ -1,4 +1,4 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> 👋 Welcome to my GitHub! I’m Daniela Rangel, a Jr. Data Analyst in progress 🚀
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> 👋 Welcome to Daniela Rangel GitHub!
 
 ![Banner de Danny Rangel](Banner_Youtube_Danny_English.png)
 
@@ -49,4 +49,5 @@
 ## My proyects ✨
 
 ![Banner de Danny Rangel](Banner_Danny_Rangel.png)
+
 
