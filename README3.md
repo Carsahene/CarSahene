@@ -1,9 +1,11 @@
-# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> 👋 Welcome to Daniela Rangel GitHub!
-
 ![Banner de Danny Rangel](Banner_Youtube_Danny_English.png)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@rangeldcc_DA)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniela-rangel-da)
+
+<br>
+
+# <img src="https://media.giphy.com/media/lGhBlBMIN2XsEteTN3/giphy.gif" width="100"/> 👋 Welcome to Daniela Rangel GitHub!
 
 <br>
 
