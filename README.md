@@ -14,7 +14,7 @@
 
 ### 📊 Data Analyst in Training 🚀
 
-### 📹 BEGINNER CONTENT CREATOR sharing my learning 💡 and bootcamp projects in Data Analytics 🐍💻 
+### 📹 Beginner content creator sharing my learning 💡 and bootcamp projects in Data Analytics 🐍💻 
 
 ### 🌍 Previous experience in hospitality, customer service, and operations management, now transitioning into the data world 📊
 
@@ -51,6 +51,7 @@
 ## My proyects ✨
 
 ![Banner de Danny Rangel](Banner_Danny_Rangel.png)
+
 
 
 
