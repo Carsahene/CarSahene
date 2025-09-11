@@ -48,11 +48,7 @@
 <br/>
 <br/>
 
-## My proyects ✨
-
-![Banner de Danny Rangel](Banner_Danny_Rangel.png)
-
-[![🌍 Professional intro | Transitioning from service to Data Analytics](https://www.youtube.com/shorts/7pfR9OcygeE)]([https://www.youtube.com/@rangeldcc_DA])
+## ⬇️⬇️ Projects ⬇️⬇️
 
 
 
