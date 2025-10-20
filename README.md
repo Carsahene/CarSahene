@@ -11,13 +11,11 @@
 ## About Me 🙌
 <!--Intro start-->
 
-### 📊 Data Analyst in Training 🚀
+### 📊 Data Analyst 🚀
 
-### 📹 Beginner content creator sharing my learning 💡 and bootcamp projects in Data Analytics 🐍💻 
-
-### 🌍 Previous experience in hospitality, customer service, and operations management, now transitioning into the data world 📊
-
-### 📝 Roles along my journey: operations manager ✈️... trainer 🎯... process optimizer ⚙️... passionate data learner 🔍... and in the future, who knows ✨
+### Data Analyst with experience in hospitality, customer service, and operations management, now leveraging Python, SQL, and data visualization to transform data into actionable insights.
+### Skilled in analyzing patterns, identifying trends, and optimizing processes to drive better business outcomes.
+### Professional journey includes roles as Operations Manager ✈️, Trainer 🎯, and Process Optimizer ⚙️, now fully focused on building a career in data analytics.
 <!--Intro end-->
 
 <br>
